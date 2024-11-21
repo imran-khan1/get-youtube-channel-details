@@ -1,8 +1,8 @@
 # get-youtube-channel-details
 
-YouTube Channel Dashboard
-Version: 1.0
-Author: Imran Khan
+YouTube Channel Dashboard<br/>
+Version: 1.0<br/>
+Author: Imran Khan<br/>
 
 Description:
 The YouTube Channel Dashboard plugin allows you to display YouTube channel details, such as subscriber count, total views, and video count, using a simple shortcode. Ideal for bloggers, content creators, and businesses who want to showcase their YouTube presence on their WordPress site. Fetch real-time data directly from the YouTube Data API and display it in a clean and customizable format.
