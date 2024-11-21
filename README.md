@@ -27,7 +27,7 @@ Edit the plugin file and replace the placeholder YOUR_YOUTUBE_API_KEY with your 
 If you'd like to make this process easier, an optional enhancement can include adding a settings page.
 Usage:
 
-Use the shortcode [youtube_dashboard channel_id="YOUR_CHANNEL_ID"] in any post, page, or widget. Replace YOUR_CHANNEL_ID with the actual ID of your YouTube channel.
+Use the shortcode <b>[youtube_dashboard channel_id="YOUR_CHANNEL_ID"] </b>in any post, page, or widget. Replace YOUR_CHANNEL_ID with the actual ID of your YouTube channel.
 Custom Styling (Optional):
 
 Add custom CSS to style the output as needed. For example, use the class .youtube-channel-dashboard in your theme's customizer or stylesheet.
